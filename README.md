@@ -42,17 +42,3 @@ This project successfully demonstrated the power of using Power BI and Excel for
 # 7. Acknowledgments
 A special thanks to Sir Mohd Kasfur Dhunyian for his continuous guidance and support throughout this project.
 
-
-🚀 Unlocking QSR Business Insights with Power BI! 🚀
-
-I'm thrilled to share my latest Power BI project where I analyzed a QSR (Quick Service Restaurant) company dataset. By leveraging the power of Excel and Power BI, I was able to prepare the data, develop relationships, and generate insightful KPIs.
-
-Some key highlights: ✅ SKU-Level Turnover Analysis
-✅ Cost and Budgeting Analysis
-✅ Pareto Analysis (80/20 rule)
-✅ PVM and Variance Analysis
-✅ Advanced charts like Mekko, Quadrant, and more!
-
-Big thanks to Sir Mohd Kasfur Dhunyian for his invaluable support and guidance in making this project a success. 🙏
-
-#PowerBI #DataAnalytics #QSR #BusinessInsights #Excel #DataModeling #KPI #CostAnalysis #Pareto #DataVisualization #ProjectSuccess
